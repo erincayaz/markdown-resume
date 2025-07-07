@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="resume.css">
+<link rel="stylesheet" type="text/css" href="resume_game.css">
 
 <span class="name">Ali Erinç Ayaz</span>
 
@@ -9,7 +9,43 @@
 
 </span>
 
-## Work Experience
+## Relevant Experience
+
+### Software Developer <time> May 2022 - Feb 2023 </time>
+
+<location> 23 Studios </location>
+
+- Developed a browser-based game for Redbull using PlayCanvas and TypeScript, with a Node.js backend; the game was publicly accessible on Redbull's official **[website](https://www.redbull.com/tr-tr/hande-gibi-smacla-nasil-oynanir)**.
+- Worked as Unity developer for HitReads, an interactive book **[app](https://play.google.com/store/apps/details?id=com.TwentyThreeGames.KitaplikProto&hl=en)** built with **Unity**, which reached over 50,000 users.
+- Worked in an **Agile** team environment, participating in sprint planning, regular stand-ups, and iterative development cycles to deliver features collaboratively.
+
+### Game Developer <time> Oct 2021 – Jan 2022 </time>
+
+<location> Monster Gaming Lab </location>
+
+- Developed two mobile hyper-casual games, Inky Adventures and Hoppy Balls, using **Unity** and **C#**.
+- Implemented core mechanics and game systems following object-oriented principles to ensure modularity and performance.
+- Collaborated with a small team in a rapid prototyping cycle; both games were tested in the market by Rollic.
+- **[Hoppy Balls](https://appadvice.com/game/app/hoppy-balls/1601305087)** and **[Inky Adventures](https://www.youtube.com/watch?v=8mrLOLPDTG8)** are both released on App Store and downloaded by 100+ people.
+
+### Solo Game Projects <time> Ongoing </time>
+
+- **Snowbrawll** - Competitive multplayer party game developed in **Unity**
+  - Designed and implemented **host-authorative multiplayer architecture** using **Steam P2P networking**, tailored for low-latency, physics-based combat gameplay
+  - Developed networking systems such as **input buffering**, **client-side prediction**, **correction algorithms** etc.
+  - Took full ownership of core gameplay mechanics, including movement, dashing, knockback, and combat responsiveness.
+  - Released a **[demo](https://store.steampowered.com/app/3734460/Snowbrawll_Demo/)** on Steam, played by over **750 players**, and currently working toward the full release.
+- **Maze Runner 3D** - First person puzzle-action game built with C++ and OpenGL
+  - Developed a 3D game engine from scratch, implementing key rendering features including **lighting**, **shadows**, **Phong shading**, **shader programs**, and **ray tracing**.
+  - Integrated **A\*** pathfinding algorithm for enemy AI navigation within a dynamic maze environment.
+  - Built reusable systems for **mesh loading**, **collision detection**, and **camera control**.
+  - **[Github Repository](https://github.com/erincayaz/Maze-Runner-Game)**
+- **Gotur** - Platformer game built for Magara Game Jam
+  - Developed with Unity in 2 days with 4 people. Released on **[itch.io](https://muhittin852.itch.io/gotur)** and played by 200+ people.
+- **Kensuke** - Action game built for Global Game Jam
+  - Developed with Unity in 2 days with 4 people. Released on **[itch.io](https://ataberkyilmaz.itch.io/kensuke)** and played by 50+ people.
+
+## Other Experience
 
 ### Full-Stack Developer <time> Aug 2023 – Present </time>
 
@@ -30,23 +66,6 @@
 - Maintained high test coverage with unit and feature tests (Cucumber), in line with the team's high test coverage standard.
 - Developed and maintained frontend components using Angular.
 
-### Software Developer <time> May 2022 - Feb 2023 </time>
-
-<location> 23 Studios </location>
-
-- Developed a browser-based game for Redbull using PlayCanvas and TypeScript, with a Node.js backend; the game was publicly accessible on Redbull's official **[website](https://www.redbull.com/tr-tr/hande-gibi-smacla-nasil-oynanir)**.
-- Worked as Unity developer for HitReads, an interactive book **[app](https://play.google.com/store/apps/details?id=com.TwentyThreeGames.KitaplikProto&hl=en)** built with **Unity**, which reached over 50,000 users.
-- Worked in an **Agile** team environment, participating in sprint planning, regular stand-ups, and iterative development cycles to deliver features collaboratively.
-
-### Game Developer <time> Oct 2021 – Jan 2022 </time>
-
-<location> Monster Gaming Lab </location>
-
-- Developed two mobile hyper-casual games, Inky Adventures and Hoppy Balls, using **Unity** and **C#**.
-- Implemented core mechanics and game systems following object-oriented principles to ensure modularity and performance.
-- Collaborated with a small team in a rapid prototyping cycle; both games were tested in the market by Rollic.
-- **[Hoppy Balls](https://appadvice.com/game/app/hoppy-balls/1601305087)** and **[Inky Adventures](https://www.youtube.com/watch?v=8mrLOLPDTG8)** are both released on App Store and downloaded by 100+ people.
-
 ### Data Science Intern <time> Aug 2021 – Sep 2021 </time>
 
 <location> Garanti BBVA Technology </location>
@@ -54,15 +73,12 @@
 - Built a text classification model with **NLTK** and **Scikit-Learn** for call center complaint routing.  
 - Experimented with multiple ML algorithms and preprocessing strategies to improve accuracy.
 
-### Data Science Intern <time> Jun 2021 – Aug 2021 </time>
+### Data Science Intern <time> June 2021 – Aug 2021 </time>
 
 <location> Tubitak Bilgem </location>
 
 - Developed **CNN** and **CLDNN** models using **Keras** to classify 11 types of radio modulation.  
 - Surpassed accuracy of earlier internal models by integrating recent research insights.
-
-<br/>
-<br/>
 
 ## Education
 
@@ -77,17 +93,13 @@ Computer Architecture, Computer Graphics, Computer Networks, Cyber Security
   - Built a hybrid system using One-Class SVM and LSTM Autoencoder to detect anomalies in telemetry data provided by Koc Finansman.
 - **Computer Architecture Final Project** - *Assembly*
   - Designed and implemented an encoder and decoder using MIPS assembly language. **[Github Repo](https://github.com/erincayaz/Computer-Architecture)**
-- **Maze Runner 3D Game** - *C++*, *OpenGL*
-  - Developed a 3D puzzle game with custom rendering features such as lighting, shadows, shaders, and ray tracing; implemented A* pathfinding algorithm. **[Github Repo](https://github.com/erincayaz/Maze-Runner-Game)**
 
 ## Additional Experience
 - Created an open-source Obsidian **[plugin](https://github.com/erincayaz/obsidian-colored-text)** using **TypeScript**, enabling users to customize text colors. The plugin has over 90 stars on GitHub and 150,000+ downloads, with automated deployment and testing via **GitHub Actions**.
 - Developed an open-source **[web automation tool](https://github.com/erincayaz/Airline-Manager-4-Bot)** using **Playwright**, running as a scheduled **GitHub Actions** job; currently has 33+ forks and a growing contributor base.
 - Developed Marmaray Saatleri, a Vue.js and Node.js-based transit **[web app](https://marmaraysaatleri.com/)** deployed on a DigitalOcean VPS with Nginx reverse proxy, SSL, and custom domain setup, currently serving ~50 daily users.
-- Co-developed a multiplayer physics-based party game, **[Snowbrawll](https://store.steampowered.com/app/2247510/Snowbrawll/)**, using **Unity** and **Steam P2P Networking**.
 - Completed the Inzva Algorithm Program (2020), a selective 6-month training in data structures and algorithms.
 - Participated in a two-day hackathon at Peak Games (2022), implementing features for a prototype version of their mobile hit game Toon Blast (50M+ downloads).
-- Released two indie games on itch.io: **[Gotur](https://muhittin852.itch.io/gotur)** and **[Kensuke](https://ataberkyilmaz.itch.io/kensuke)**
 
 ## Languages and Technologies
 - Python, C#, C++, JavaScript, Typescript, MySQL, PostgreSQL, NodeJS, HTML, CSS
